@@ -1,0 +1,21 @@
+git branch  查看分支;
+git branch 分支名  创建了一条分支;
+git branch -d 分支名 删除分支;
+
+切换分支;
+
+git chekout 分支名;
+
+merge 分支合并;
+ 
+merge branch 把名为branch 的分支合并到当前分支上;
+
+// 一个项目从无到有 需要用到指令 ;
+
+git clone 路径;
+
+// 远程仓库 => 本地仓库;
+
+git pull 指令;
+
+// 远程仓库 => 本地工作区;
